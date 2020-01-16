@@ -1,2 +1,2 @@
 # mocherry-sample-rest-app
-MoCherry: Sample application to build REST webservice using CherryPy &amp; MongoDB
+MoCherry: Sample REST based application for CRUD operations demonstration
