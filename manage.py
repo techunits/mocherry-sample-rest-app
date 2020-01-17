@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 import os
-import sys
-sys.path.append('C:/Projects/python-mocherry/mocherry')
 
 def main():
     BASEPATH = os.getcwd()
