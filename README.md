@@ -2,7 +2,7 @@
 # mocherry-sample-rest-app
 This app will demonstrate the implementation of an REST based webservice using MoCherry framework. We have also incorporated an initializer command to bootstrap the application with some dummy data to start your tests immediately.
 
-**Demo URL:** http://fake-rest-api.techunits.com
+**Demo URL:** http://fake-rest-api.techunits.com:9090
 
 #### Setup Guide
 In order to setup this applicaiton you have to go through following steps:
